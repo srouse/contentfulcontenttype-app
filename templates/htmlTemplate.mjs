@@ -6,6 +6,7 @@ export default function renderHTML(content, css) {
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <link rel="stylesheet" href="https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/rds.css" />
+    <script src="https://admirable-pegasus-a42d6b.netlify.app/transformations/fdst-web/rds-icon.js"></script>
     <style>
       ${css}
     </style>
@@ -52,7 +53,6 @@ export default function renderHTML(content, css) {
           max-width: 1000px;
           margin: 0 auto;
           font-size: 16px;
-          --color-accent-fg: var( --primary-dark-color );
         }
 
         .markdown-content {
@@ -195,6 +195,8 @@ export default function renderHTML(content, css) {
   <body class="markdown-body">
       <div class="header">
         <div class="header-content">
+          <rds-icon icon="contentful-content-type-widget"
+            style="width: 40px; height: 40px;"></rds-icon>
           <svg xmlns="http://www.w3.org/2000/svg"
             style="margin-right: 20px;"
             viewBox="0 0 640 512"
