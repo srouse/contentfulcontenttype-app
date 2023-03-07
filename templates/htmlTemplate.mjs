@@ -5,8 +5,8 @@ export default function renderHTML(content, css) {
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" href="https://admirable-pegasus-a42d6b.netlify.app/transformations/fds-web/rds.css" />
-    <script src="https://admirable-pegasus-a42d6b.netlify.app/transformations/fds-web/icons/contentful-content-type-widget-web-comp.js"></script>
+    <link rel="stylesheet" href="https://readme-design-system.netlify.app/transformations/fds-web/rds.css" />
+    <script src="https://readme-design-system.netlify.app/transformations/fds-web/icons/contentful-content-type-widget-web-comp.js"></script>
     <style>
       ${css}
     </style>
@@ -62,6 +62,10 @@ export default function renderHTML(content, css) {
 
         .markdown-content img {
           box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+        }
+
+        .markdown-body hr {
+          height: 1px;
         }
 
       @media (max-width:768px) {
@@ -127,7 +131,7 @@ export default function renderHTML(content, css) {
           --color-canvas-default: var( --rds-color-grey-0 );
           --color-canvas-subtle: var( --rds-color-grey-1 );
           --color-border-default: var( --rds-color-grey-2 );
-          --color-border-muted: var( --rds-color-grey-4 );
+          --color-border-muted: var( --rds-color-grey-1 );
           --color-neutral-muted: var( --rds-color-grey-5 );
           --color-accent-fg: var( --rds-color-primary-5 );
           --color-accent-emphasis: var( --rds-color-primary-5 );
@@ -178,8 +182,8 @@ export default function renderHTML(content, css) {
           --color-fg-subtle: var( --rds-color-grey-3 );
           --color-canvas-default: var( --rds-color-grey-10 );
           --color-canvas-subtle: var( --rds-color-grey-95 );
-          --color-border-default: var( --rds-color-grey-8 );
-          --color-border-muted: var( --rds-color-grey-6 );
+          --color-border-default: var( --rds-color-grey-9 );
+          --color-border-muted: var( --rds-color-grey-9 );
           --color-neutral-muted: var( --rds-color-grey-5 );
           --color-accent-fg: var( --rds-color-primary-5 );
           --color-accent-emphasis: var( --rds-color-primary-5 );
@@ -199,7 +203,7 @@ export default function renderHTML(content, css) {
             style="
               width: 28px;
               --color: var( --rds-color-grey-10 );
-              margin-right: var( --rds-spacing-1 )">
+              margin-right: var( --rds-spacing-1-6 )">
           </rds-icon-contentful-content-type-widget>
           <div style="font: var( --rds-type-text-8 );">
             Contentful Content Type
