@@ -33,10 +33,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-4.6.0.tgz#3c7c9c46e678feefe7a2e5bb609d3dbd665ffb3f"
   integrity sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw==
 
-"@srouse/readme-sites-design-system@^0.0.12":
-  version "0.0.12"
-  resolved "https://npm.pkg.github.com/download/@srouse/readme-sites-design-system/0.0.12/1f455217a9285ac2a570a9692d38644aafcf13c8#1f455217a9285ac2a570a9692d38644aafcf13c8"
-  integrity sha512-lKMnLke7BUsJ45zQa1XX56fLW0L8qGT4MxKlCUTzNyP7In8bgvnoIn4HqGuxy6HOwzRtEOoizhEyE/D9IctVVQ==
+"@srouse/readme-sites-design-system@0.0.22":
+  version "0.0.22"
+  resolved "https://npm.pkg.github.com/download/@srouse/readme-sites-design-system/0.0.22/844832fd638c8ccaecace6b614a7594b99f2a0c7#844832fd638c8ccaecace6b614a7594b99f2a0c7"
+  integrity sha512-Bw2RVBX1HOXMnyOmRGPymwIs9ADNPOXaCBPT6Hif8HN6HFDWUsL3C7UJHXlKQ4hqvYo6G5WTo9lkfk+asdGZbA==
   dependencies:
     csstype "^3.1.1"
 
@@ -390,10 +390,10 @@ concat-with-sourcemaps@*:
   dependencies:
     source-map "^0.6.1"
 
-contentful-readme-generator@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/contentful-readme-generator/-/contentful-readme-generator-0.0.8.tgz#5b7563fa5c947811499197f2fbeb7acc0a7a67b0"
-  integrity sha512-zVcylAMDrpbOeegmqvqTMN+hLYFOn8Rn2Ht6qOMtrGprLrXQCoe1m+IsmWWmlgkU0Z1j9V4iPgu7Amvp0hVPZg==
+contentful-readme-generator@0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/contentful-readme-generator/-/contentful-readme-generator-0.0.10.tgz#76b5cf0bb14c61951730fb15f94d7eb8ae5bed83"
+  integrity sha512-jAIR93vbM3j+JRo2dBCdq9UxWLrz5s7tjzEYg7HkWuU+8+wgnpTqfObZece9i9CRyGvfiUAzw28hYcfvjqRXow==
   dependencies:
     badges "^4.27.0"
     chalk "^5.0.1"
