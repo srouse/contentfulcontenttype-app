@@ -206,7 +206,7 @@ export default function renderHTML(content, css) {
               margin-right: var( --rds-spacing-1-6 )">
           </rds-icon-contentful-content-type-widget>
           <div style="font: var( --rds-type-text-8 );">
-            Contentful Content Type
+            Contentful Content Type Figma Widget
           </div>
         </div>
       </div>

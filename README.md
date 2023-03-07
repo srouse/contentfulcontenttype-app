@@ -33,28 +33,28 @@ When you have a Content Type, click the "+" in the header to create an Entry of 
 
 ## Contentful Content Type Variations
 
-[![Contentful Content Type Variations](https://images.ctfassets.net/rtkhko6y3s3u/2ACZNvb0tl5ZgV084zDhuv/e25aa624edd6a4deafc39176f55fdfaa/Contentful_Content_Type_Variations.png)](https://images.ctfassets.net/rtkhko6y3s3u/2ACZNvb0tl5ZgV084zDhuv/e25aa624edd6a4deafc39176f55fdfaa/Contentful_Content_Type_Variations.png "View Full Size")
+[![Contentful Content Type Variations](https://images.ctfassets.net/rtkhko6y3s3u/2ACZNvb0tl5ZgV084zDhuv/26eea3adf8e395194b26cfc8add245b5/Contentful_Content_Type_Variations.png)](https://images.ctfassets.net/rtkhko6y3s3u/2ACZNvb0tl5ZgV084zDhuv/26eea3adf8e395194b26cfc8add245b5/Contentful_Content_Type_Variations.png "View Full Size")
     
 Contentful Content Type Variations [source](https://www.figma.com/file/u1sVmfRm0IWGj2KXlzlN5l/?node-id=3:82)
 
 
 ## Editing Proposed Content Types
 
-[![Editing Proposed Content Types](https://images.ctfassets.net/rtkhko6y3s3u/5mA6cawyfyZM74OA4BJlg3/16affed37326d62896759320ba4137b5/Editing_Proposed_Content_Types.png)](https://images.ctfassets.net/rtkhko6y3s3u/5mA6cawyfyZM74OA4BJlg3/16affed37326d62896759320ba4137b5/Editing_Proposed_Content_Types.png "View Full Size")
+[![Editing Proposed Content Types](https://images.ctfassets.net/rtkhko6y3s3u/5mA6cawyfyZM74OA4BJlg3/ddc0bec5b4184821f1c4042376c8ab46/Editing_Proposed_Content_Types.png)](https://images.ctfassets.net/rtkhko6y3s3u/5mA6cawyfyZM74OA4BJlg3/ddc0bec5b4184821f1c4042376c8ab46/Editing_Proposed_Content_Types.png "View Full Size")
     
 Editing Proposed Content Types [source](https://www.figma.com/file/u1sVmfRm0IWGj2KXlzlN5l/?node-id=6:37)
 
 
 ## Loading Content Types from API
 
-[![Loading Content Types from API](https://images.ctfassets.net/rtkhko6y3s3u/1v8Ul5Mhw6FEFohJ2JA3WS/3f67e78256f0b561ffe97fa72b84e24a/Loading_Content_Types_from_API.png)](https://images.ctfassets.net/rtkhko6y3s3u/1v8Ul5Mhw6FEFohJ2JA3WS/3f67e78256f0b561ffe97fa72b84e24a/Loading_Content_Types_from_API.png "View Full Size")
+[![Loading Content Types from API](https://images.ctfassets.net/rtkhko6y3s3u/1v8Ul5Mhw6FEFohJ2JA3WS/8628fcf030395983c9f8896d773dead8/Loading_Content_Types_from_API.png)](https://images.ctfassets.net/rtkhko6y3s3u/1v8Ul5Mhw6FEFohJ2JA3WS/8628fcf030395983c9f8896d773dead8/Loading_Content_Types_from_API.png "View Full Size")
     
 Loading Content Types from API [source](https://www.figma.com/file/u1sVmfRm0IWGj2KXlzlN5l/?node-id=7:42)
 
 
 ## Generating Examples
 
-[![Generating Examples](https://images.ctfassets.net/rtkhko6y3s3u/7LFsLxfL7Ar9svYyeUd569/587a04b8eea78bf49af4cff728dc22ad/Generating_Examples.png)](https://images.ctfassets.net/rtkhko6y3s3u/7LFsLxfL7Ar9svYyeUd569/587a04b8eea78bf49af4cff728dc22ad/Generating_Examples.png "View Full Size")
+[![Generating Examples](https://images.ctfassets.net/rtkhko6y3s3u/7LFsLxfL7Ar9svYyeUd569/c09c304942719678dbae33eb12a3e3ed/Generating_Examples.png)](https://images.ctfassets.net/rtkhko6y3s3u/7LFsLxfL7Ar9svYyeUd569/c09c304942719678dbae33eb12a3e3ed/Generating_Examples.png "View Full Size")
     
 Generating Examples [source](https://www.figma.com/file/u1sVmfRm0IWGj2KXlzlN5l/?node-id=8:428)
 
@@ -64,7 +64,7 @@ This is an example of a full modeling visual in progress. The canvas starts with
 
 Each Content Type can spawn an example like the two blue widgets on the right. They are a way of practicing how the Content Type will grow and present itself with a user. It is sometimes difficult to imagine how the Content Type is interpreted to a user who usually has an idea of the content they are trying to add. For instance, the example shows how a user could take two different paths for creating a piece of content.
 
-[![Full Example of Content Type Modeling](https://images.ctfassets.net/rtkhko6y3s3u/5nXIG7hlSBP4DffK6VrauK/313505642313f6da53db89ea3d7da605/Full_Example_of_Content_Type_Modeling.png)](https://images.ctfassets.net/rtkhko6y3s3u/5nXIG7hlSBP4DffK6VrauK/313505642313f6da53db89ea3d7da605/Full_Example_of_Content_Type_Modeling.png "View Full Size")
+[![Full Example of Content Type Modeling](https://images.ctfassets.net/rtkhko6y3s3u/5nXIG7hlSBP4DffK6VrauK/b91b40759b76300eea3bfee4813a96b5/Full_Example_of_Content_Type_Modeling.png)](https://images.ctfassets.net/rtkhko6y3s3u/5nXIG7hlSBP4DffK6VrauK/b91b40759b76300eea3bfee4813a96b5/Full_Example_of_Content_Type_Modeling.png "View Full Size")
     
 Full Example of Content Type Modeling [source](https://www.figma.com/file/u1sVmfRm0IWGj2KXlzlN5l/?node-id=8:1779)
 
@@ -75,7 +75,7 @@ Full Example of Content Type Modeling [source](https://www.figma.com/file/u1sVmf
 
 *__updated__: 3/5/2023, 3:27:41 PM*
 
-*__built__: 3/7/2023, 9:25:26 AM*
+*__built__: 3/7/2023, 4:02:06 PM*
 
 *__space__: rtkhko6y3s3u*
 
