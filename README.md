@@ -1,4 +1,4 @@
-# Contentful Content Type
+# Contentful Content Type Figma Widget
 <!-- 
   Do not edit directly, built using contentful-readme-generator.
   Content details in Build Information below.
@@ -15,7 +15,7 @@
 ---
 
 
-__Title__: Contentful Content Type Readme Project
+__Title__: Contentful Content Type Figma Widget
 
 __Project Abbreviation__: CCT
 
@@ -32,13 +32,11 @@ The complete Contentful Content Type visualization tool ( https://www.contentful
 When you have a Content Type, click the "+" in the header to create an Entry of that Content Type.
 
 ## Content Type Modes
-There are three different modes to the Contentful Widget.
+- __proposed content type mode__ This mode is used to construct brand new content types. Start by defining the title then add each entry using the data types found in Contentful. You can also reorder easily and add notes to each property. A perfect tool for work-grouping requirements or just exploring new design layouts. A proposed widget will be slighter grayer and say "PROPOSED" at the bottom.
 
-The first is the __proposed content type mode__ which is used to construct brand new content types. Start by defining the title then add each entry using the data types found in Contentful. You can also reorder easily and add notes to each property. A perfect tool for work-grouping requirements or just exploring new design layouts. A proposed widget will be slighter greyer and say "PROPOSED" at the bottom.
+- __loaded content type mode__. By adding your Contentful space id, environment, and CDA (Contentful Delivery API) access token, the widget will be able to load in the list of content types within that space as well as load and display a specific content type. This widget mode will have a darker header, a lighter main background, and will say "published" on the bottom.
 
-The second mode is the __loaded content type mode__. By adding your Contentful space id, environment, and CDA (Contentful Delivery API) access token, the widget will be able to load in the list of content types within that space as well as load and display a specific content type. This widget mode will have a darker header, a lighter main background, and will say "published" on the bottom.
-
-The last mode is the __preview content type mode__. This widget is created by clicking the "+" in either the proposed mode widget or the loaded widget. This mode enables you to play with the content type and see how it plays out with actual content. A lot of times things change when you start thinking about how actual content will fit into the content type.
+- __preview content type mode__. This widget is created by clicking the "+" in either the proposed mode widget or the loaded widget. This mode enables you to play with the content type and see how it plays out with actual content. A lot of times things change when you start thinking about how actual content will fit into the content type.
 
 [![Contentful Content Type Variations](https://images.ctfassets.net/rtkhko6y3s3u/2ACZNvb0tl5ZgV084zDhuv/3e866a8f72c32ea3d591c04de2d48e16/Contentful_Content_Type_Variations.png)](https://images.ctfassets.net/rtkhko6y3s3u/2ACZNvb0tl5ZgV084zDhuv/3e866a8f72c32ea3d591c04de2d48e16/Contentful_Content_Type_Variations.png "View Full Size")
     
@@ -46,6 +44,7 @@ Contentful Content Type Variations [source](https://www.figma.com/file/u1sVmfRm0
 
 
 ## Proposed Content Types
+Proposed content types are where you think out the structure of new content types. Opening the editor will show you all the ways to create a new property, select it's data type, add a note, and quickly reorder. You can also change the name of the property on the widget itself.
 
 [![Editing Proposed Content Types](https://images.ctfassets.net/rtkhko6y3s3u/5mA6cawyfyZM74OA4BJlg3/ddc0bec5b4184821f1c4042376c8ab46/Editing_Proposed_Content_Types.png)](https://images.ctfassets.net/rtkhko6y3s3u/5mA6cawyfyZM74OA4BJlg3/ddc0bec5b4184821f1c4042376c8ab46/Editing_Proposed_Content_Types.png "View Full Size")
     
@@ -53,6 +52,7 @@ Editing Proposed Content Types [source](https://www.figma.com/file/u1sVmfRm0IWGj
 
 
 ## Loaded Content Types
+By setting up your Contentful credentials, you can load in existing content types and making a living document within Figma.
 
 [![Loading Content Types from API](https://images.ctfassets.net/rtkhko6y3s3u/1v8Ul5Mhw6FEFohJ2JA3WS/2393cb99efaebd9a09385680250bf2f7/Loading_Content_Types_from_API.png)](https://images.ctfassets.net/rtkhko6y3s3u/1v8Ul5Mhw6FEFohJ2JA3WS/2393cb99efaebd9a09385680250bf2f7/Loading_Content_Types_from_API.png "View Full Size")
     
@@ -81,9 +81,9 @@ Full Example of Content Type Modeling [source](https://www.figma.com/file/u1sVmf
 
 *Dynamically built using contentful-readme-generator. Do not edit directly.*
 
-*__updated__: 3/5/2023, 3:27:41 PM*
+*__updated__: 3/19/2023, 2:37:54 PM*
 
-*__built__: 3/19/2023, 2:35:11 PM*
+*__built__: 3/19/2023, 5:49:06 PM*
 
 *__space__: rtkhko6y3s3u*
 

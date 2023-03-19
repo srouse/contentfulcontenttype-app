@@ -33,13 +33,6 @@
   resolved "https://registry.npmjs.org/@sindresorhus/is/-/is-4.6.0.tgz"
   integrity sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw==
 
-"@srouse/readme-sites-design-system@0.0.31":
-  version "0.0.31"
-  resolved "https://npm.pkg.github.com/download/@srouse/readme-sites-design-system/0.0.31/1a53dc3c025487a369938fbb74463d61205d0737#1a53dc3c025487a369938fbb74463d61205d0737"
-  integrity sha512-VCk4pH5uhJDvO/3JohpRXFVV7FW36NSUsd/AAs7ayyoczUSEkcasZ/6Kg1gt5vQsmq3426qTllw3Cd+D9d0Cpw==
-  dependencies:
-    csstype "^3.1.1"
-
 "@szmarczak/http-timer@^4.0.5":
   version "4.0.6"
   resolved "https://registry.npmjs.org/@szmarczak/http-timer/-/http-timer-4.0.6.tgz"
@@ -472,11 +465,6 @@ cssstyle@^2.3.0:
   integrity sha512-AZL67abkUzIuvcHqk7c09cezpGNcxUxU4Ioi/05xHk4DQeTkWmGYftIE6ctU6AEt+Gn4n1lDStOtj7FKycP71A==
   dependencies:
     cssom "~0.3.6"
-
-csstype@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.npmjs.org/csstype/-/csstype-3.1.1.tgz"
-  integrity sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==
 
 data-uri-to-buffer@^4.0.0:
   version "4.0.1"

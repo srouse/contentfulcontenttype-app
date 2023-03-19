@@ -12,7 +12,6 @@
     "server": "http-server ./dist"
   },
   "dependencies": {
-    "@srouse/readme-sites-design-system": "0.0.31",
     "contentful-readme-generator": "0.0.10",
     "http-server": "^14.1.1"
   },

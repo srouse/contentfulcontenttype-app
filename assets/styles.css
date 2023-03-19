@@ -24,8 +24,9 @@ html, body {
 }
 
 .header {
-  background-color: var( --rds-color-primary-6 );
-  height: 480px;
+  background-color: var( --rds-color-primary-5 );
+  height: 40vw;
+  max-height: 500px;
   display: flex;
   justify-content: center;
 }
@@ -38,7 +39,7 @@ html, body {
     background-image: url(./cct-website.png);
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom;
   }
 
   .markdown-content,
@@ -70,6 +71,7 @@ html, body {
     padding-right: 40px;
     font-size: 14px;
   }
+
   .header {
     height: 43vw;
   }
@@ -77,6 +79,7 @@ html, body {
       background-image: url(./cct-website-sm.png);
       background-position: bottom;
     }
+
   .markdown-content {
     padding-top: 30px;
     padding-bottom: 40px;

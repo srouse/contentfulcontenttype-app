@@ -1,6 +1,6 @@
 import copy from 'recursive-copy';
-import fs from 'fs';
 
+/*
 try {
   const results = await copy(
     './node_modules/@srouse/readme-sites-design-system',
@@ -11,6 +11,7 @@ try {
 } catch (error) {
 	console.error('Copy Error: ' + error);
 }
+*/
 
 try {
   const results = await copy(
