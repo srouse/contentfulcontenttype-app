@@ -2,16 +2,23 @@ import copy from 'recursive-copy';
 import fs from 'fs';
 
 try {
-  const source = './node_modules/@srouse/readme-sites-design-system';
-  const dist = './dist/readme-sites-design-system';
-  if (!fs.existsSync(dist)) {
-    const results = await copy(
-      source, dist
-    );
-    console.info('Copied ' + results.length + ' files');
-  }else{
-    console.info('found dist folder, nothing done');
-  }
+  const results = await copy(
+    './node_modules/@srouse/readme-sites-design-system',
+    './dist/readme-sites-design-system',
+    {overwrite: true},
+  );
+  console.info('Copied ' + results.length + ' files');
 } catch (error) {
-	console.error('Copy failed: ' + error);
+	console.error('Copy Error: ' + error);
+}
+
+try {
+  const results = await copy(
+    './assets',
+    './dist/assets',
+    {overwrite: true},
+  );
+  console.info('Copied ' + results.length + ' files');
+} catch (error) {
+	console.error('Copy Error: ' + error);
 }
