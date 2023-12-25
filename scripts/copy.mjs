@@ -10,7 +10,7 @@ try {
   console.info('Copied ' + results.length + ' files');
 } catch (error) {
 	console.error('Copy Error: ' + error);
-}
+} 
 */
 
 try {
